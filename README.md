@@ -1,1 +1,1 @@
-# React_Native_Login_Registeration
+#Serifhan Isıklı, React native e-learning app
